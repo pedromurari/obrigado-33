@@ -16,7 +16,7 @@ export function ThankYouPage() {
       window.fbq("track", "CompleteRegistration");
     }
   }, []);
-  const whatsappLink = "https://chat.whatsapp.com/K8HmP5qnUC5GFsg9Tqm05t";
+  const whatsappLink = "https://chat.whatsapp.com/L4xQKmqIltpIP5tsVFWx22";
 
   return (
     <div className="min-h-screen bg-background">
